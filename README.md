@@ -10,6 +10,9 @@
  
 ## Usage
 
+
+alias dollar="node /Users/yilmazoncum/dev/dolar-cli/app.js"
+
 ```bash
   dollar -d
 ```
